@@ -1,0 +1,35 @@
+.card-1 {
+  border: 2px solid #84cc16;
+  background-color: #ecfccb;
+}
+.card-2 {
+  border: 2px solid #06b6d4;
+  background-color: #cffafe;
+}
+.card-3 {
+  border: 2px solid #7c3aed;
+  background-color: #ede9fe;
+}
+.card-item {
+  display: flex;
+  align-items: center;
+  border-radius: 10px;
+  margin-right: 30px;
+  list-style-type: none;
+  padding: 20px;
+  width: 318px;
+}
+.money-details-card {
+  display: flex;
+  flex-direction: column;
+  line-height: 0;
+  padding-left: 12px;
+}
+.money-type {
+  color: #334155;
+  font-size: 20px;
+  font-family: 'Roboto';
+}
+.icon {
+  width: 100px;
+}
